@@ -1,0 +1,8 @@
+Numbers
+Strings
+Booleans
+---
+Lists (arrays)
+Dictionaries (objects)
+----
+Package : folder with __init__.py inside
